@@ -1,0 +1,2 @@
+# kanban
+exe banca
